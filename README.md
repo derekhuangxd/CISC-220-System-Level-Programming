@@ -1,4 +1,4 @@
-# CISC-220-System-Level-Programming
+# CISC220-System-Level-Programming
 Shell Scripting and C Programming Assignments
 
 Programming Environment
